@@ -4,6 +4,7 @@ sudo su
 apt-get update
 apt-get upgrade
 apt-get install -y g++
+apt-get install -y git
 apt-get install -y node npm
 npm cache clean -f
 npm install -g n
