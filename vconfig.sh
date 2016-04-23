@@ -19,3 +19,5 @@ cd /var/www
 npm install --global gulp-cli
 npm -y init
 npm install --save-dev --no-bin-links gulp
+
+npm install --no-bin-links bower mean-cli

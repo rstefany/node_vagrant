@@ -1,0 +1,26 @@
+/****************************************************************/
+
+Hi, if you're reading this, then you're another creature
+trying to learn more about the whole new world where
+Javascript can be used as backend technology for you app.
+
+For this example follow these 2 steps before anything else:
+1 - Install VistualBox from https://www.virtualbox.org/
+2 - Install Git https://git-scm.com/downloads
+3 - After installing, choose a directory in your machine where
+	your project is or where ou want it to be
+4 - Put the Vagrantfile and vconfig.sh in you project directory,
+	it's a good practice to put it out of the directory which
+	you're going to share, along with other configuration files
+5 - Right-click in the directory where you put Vagrantfile
+6 - Left-click Git Bash
+7 - When the command window opens, insert $ vangrant up, it will
+	take a few minutes to create your VM.
+	TIP: Use $ vagrant halt to close VM softly.
+
+NOTE: You'll need to do a vagrant up everytime to open
+your machine, but it's faster, since VM is already created.
+
+Now you have a server up and runnig. :}
+
+That's all folks.
